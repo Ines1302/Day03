@@ -1,5 +1,7 @@
 function main (numOne, numTwo) {
     
+    var difference; 
+
     difference = numOne - numTwo;
 
     return difference; 

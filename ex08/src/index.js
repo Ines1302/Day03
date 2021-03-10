@@ -1,5 +1,7 @@
 function main (numOne, numTwo) {
     
+    var sum; 
+    
     sum = numOne + numTwo;
 
     return sum; 
