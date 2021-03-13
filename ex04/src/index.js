@@ -1,13 +1,11 @@
-function main () {
+function main() {
+  var x;
+  var y;
+  x = 10;
+  y = x;
 
-    x = 10;
-    y = x;
-
-    return [x, y] ;
-
-
-
+  return [x, y];
 }
 
-console.log (main()) ;
-module.exports = main; 
+console.log(main());
+module.exports = main;
